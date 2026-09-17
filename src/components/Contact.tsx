@@ -159,7 +159,7 @@ export function Contact() {
               </a>
 
               <a
-                href="https://github.com/samuelcarvajal"
+                href="https://github.com/SamuelCarvajal21"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group/link flex items-center justify-between p-3.5 rounded-xl bg-slate-950/40 hover:bg-slate-800/50 border border-slate-800/80 hover:border-indigo-500/40 transition-all"
@@ -173,7 +173,7 @@ export function Contact() {
                       {t.contact.githubLabel}
                     </div>
                     <div className="text-[11px] text-slate-400 font-mono">
-                      github.com/samuelcarvajal
+                      github.com/SamuelCarvajal21
                     </div>
                   </div>
                 </div>

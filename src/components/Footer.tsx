@@ -43,7 +43,7 @@ export function Footer() {
         {/* Right Socials & Back to Top */}
         <div className="flex items-center gap-3">
           <a
-            href="https://github.com/samuelcarvajal"
+            href="https://github.com/SamuelCarvajal21"
             target="_blank"
             rel="noopener noreferrer"
             className="p-2 rounded-lg text-slate-400 hover:text-white hover:bg-slate-900 transition-colors"
