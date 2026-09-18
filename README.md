@@ -52,28 +52,28 @@ A visually stunning, ultra-modern developer portfolio engineered for high perfor
 
 The portfolio highlights four production-tested companion architectures:
 
-### 1. [`billing-crm-core`](https://github.com/SamuelCarvajal21/billing-crm-core)
+### 1. [`billing-crm-core`](https://github.com/SamuelCarvajal210408/billing-crm-core)
 > **Resilient Asynchronous CRM Engine & Financial Processing Backend**
 - High-throughput asynchronous FastAPI architecture with zero blocking bottlenecks.
 - Async SQLAlchemy 2.0 with connection pooling, migrations, and ACID guarantees.
 - Role-Based Access Control (RBAC) with cryptographic JWT token rotation.
 - Automated pytest test suite maintaining **95%+ test coverage**.
 
-### 2. [`billing-crm-portal`](https://github.com/SamuelCarvajal21/billing-crm-portal)
+### 2. [`billing-crm-portal`](https://github.com/SamuelCarvajal210408/billing-crm-portal)
 > **Modern Client Portal & Metrics Analytics Dashboard**
 - Next.js 15 App Router interface with React Server Components for near-instant hydration.
 - Custom Tailwind CSS glassmorphic dashboard with real-time billing metrics and data telemetry.
 - Protected client routes, secure cookie session synchronization, and CSRF defense.
 - Scored **99/100** on performance and Core Web Vitals.
 
-### 3. [`webhook-dispatcher-relay`](https://github.com/SamuelCarvajal21/webhook-dispatcher-relay)
+### 3. [`webhook-dispatcher-relay`](https://github.com/SamuelCarvajal210408/webhook-dispatcher-relay)
 > **Asynchronous Event Relay with Exponential Backoff Retry Workers**
 - High-throughput Redis queue orchestration with separate dead-letter queues (DLQ).
 - Cryptographic HMAC SHA-256 signatures generated per consumer payload delivery.
 - Configurable exponential backoff jitter workers preventing downstream cascading failures.
 - **99.99% Delivery SLA** with end-to-end delivery audit logs and distributed traces.
 
-### 4. [`doc-report-generator`](https://github.com/SamuelCarvajal21/doc-report-generator)
+### 4. [`doc-report-generator`](https://github.com/SamuelCarvajal210408/doc-report-generator)
 > **High-Throughput TypeScript Document Streaming Microservice**
 - Headless browser pool management with Puppeteer for deterministic, print-ready document rendering.
 - Memory-efficient streaming pipelines piping generated documents directly to AWS S3 buckets.
@@ -91,7 +91,7 @@ The portfolio highlights four production-tested companion architectures:
 ### Setup Steps
 ```bash
 # 1. Clone the repository
-git clone https://github.com/SamuelCarvajal21/developer-portfolio.git
+git clone https://github.com/SamuelCarvajal210408/developer-portfolio.git
 cd developer-portfolio
 
 # 2. Install dependencies

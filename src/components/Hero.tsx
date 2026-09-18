@@ -125,7 +125,7 @@ export function Hero({ onOpenCv }: { onOpenCv: () => void }) {
           {/* Social Links: GitHub & LinkedIn */}
           <div className="flex items-center gap-2 pl-2">
             <a
-              href="https://github.com/SamuelCarvajal21"
+              href="https://github.com/SamuelCarvajal210408"
               target="_blank"
               rel="noopener noreferrer"
               className="p-3 rounded-xl glass-panel bg-slate-900/60 hover:bg-slate-800 text-slate-400 hover:text-white border border-slate-700/50 hover:border-indigo-500/50 transition-all duration-200"

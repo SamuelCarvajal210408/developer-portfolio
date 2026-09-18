@@ -53,7 +53,7 @@ export const en: Translations = {
           "Comprehensive automated pytest test suite with 95%+ coverage across core logic",
         ],
         techStack: ["Python", "FastAPI", "SQLAlchemy Async", "PostgreSQL", "Pytest", "Docker"],
-        githubUrl: "https://github.com/SamuelCarvajal21/billing-crm-core",
+        githubUrl: "https://github.com/SamuelCarvajal210408/billing-crm-core",
         category: "backend",
         metrics: {
           label: "Test Coverage",
@@ -74,7 +74,7 @@ export const en: Translations = {
           "Optimistic UI updates for high-perceived responsiveness and low latency",
         ],
         techStack: ["Next.js 15", "React 19", "TypeScript", "Tailwind CSS", "Framer Motion"],
-        githubUrl: "https://github.com/SamuelCarvajal21/billing-crm-portal",
+        githubUrl: "https://github.com/SamuelCarvajal210408/billing-crm-portal",
         demoUrl: "https://billing-portal-demo.vercel.app",
         category: "frontend",
         metrics: {
@@ -96,7 +96,7 @@ export const en: Translations = {
           "Comprehensive structured telemetry, distributed traces, and delivery audit logs",
         ],
         techStack: ["TypeScript", "Node.js", "Redis", "HMAC SHA-256", "Docker", "Jest"],
-        githubUrl: "https://github.com/SamuelCarvajal21/webhook-dispatcher-relay",
+        githubUrl: "https://github.com/SamuelCarvajal210408/webhook-dispatcher-relay",
         category: "infrastructure",
         metrics: {
           label: "Delivery SLA",
@@ -117,7 +117,7 @@ export const en: Translations = {
           "Isolated ephemeral worker sandbox execution minimizing memory leaks and host footprint",
         ],
         techStack: ["TypeScript", "Puppeteer", "Node.js", "AWS S3", "Docker", "Vitest"],
-        githubUrl: "https://github.com/SamuelCarvajal21/doc-report-generator",
+        githubUrl: "https://github.com/SamuelCarvajal210408/doc-report-generator",
         category: "microservice",
         metrics: {
           label: "Generation Speed",

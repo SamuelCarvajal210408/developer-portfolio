@@ -53,7 +53,7 @@ export const es: Translations = {
           "Suite completa de pruebas automatizadas con Pytest que supera el 95% de cobertura en lógica clave",
         ],
         techStack: ["Python", "FastAPI", "SQLAlchemy Async", "PostgreSQL", "Pytest", "Docker"],
-        githubUrl: "https://github.com/SamuelCarvajal21/billing-crm-core",
+        githubUrl: "https://github.com/SamuelCarvajal210408/billing-crm-core",
         category: "backend",
         metrics: {
           label: "Cobertura de Pruebas",
@@ -74,7 +74,7 @@ export const es: Translations = {
           "Actualizaciones de UI optimistas para latencia percibida instantánea",
         ],
         techStack: ["Next.js 15", "React 19", "TypeScript", "Tailwind CSS", "Framer Motion"],
-        githubUrl: "https://github.com/SamuelCarvajal21/billing-crm-portal",
+        githubUrl: "https://github.com/SamuelCarvajal210408/billing-crm-portal",
         demoUrl: "https://billing-portal-demo.vercel.app",
         category: "frontend",
         metrics: {
@@ -96,7 +96,7 @@ export const es: Translations = {
           "Telemetría estructurada, trazas distribuidas y registro auditable de entregas",
         ],
         techStack: ["TypeScript", "Node.js", "Redis", "HMAC SHA-256", "Docker", "Jest"],
-        githubUrl: "https://github.com/SamuelCarvajal21/webhook-dispatcher-relay",
+        githubUrl: "https://github.com/SamuelCarvajal210408/webhook-dispatcher-relay",
         category: "infrastructure",
         metrics: {
           label: "SLA de Entrega",
@@ -117,7 +117,7 @@ export const es: Translations = {
           "Aislamiento de tareas en sandboxes efímeros evitando fugas de memoria en el servidor",
         ],
         techStack: ["TypeScript", "Puppeteer", "Node.js", "AWS S3", "Docker", "Vitest"],
-        githubUrl: "https://github.com/SamuelCarvajal21/doc-report-generator",
+        githubUrl: "https://github.com/SamuelCarvajal210408/doc-report-generator",
         category: "microservice",
         metrics: {
           label: "Velocidad de Generación",
